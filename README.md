@@ -2,7 +2,7 @@
 
 # Hello GitHub Actions
 
-_Create heehee and run a GitHub Actions workflow._
+_Create heehe and run a GitHub Actions workflow._
 
 </header>
 
